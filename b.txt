@@ -1,1 +1,2 @@
 this is the first line in b.txt
+this is the second line i b.txt
